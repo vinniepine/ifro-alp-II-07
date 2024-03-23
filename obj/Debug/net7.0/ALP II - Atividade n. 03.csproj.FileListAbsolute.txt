@@ -1,0 +1,130 @@
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.exe
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.deps.json
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.runtimeconfig.json
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.csproj.AssemblyReference.cache
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfoInputs.cache
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfo.cs
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.csproj.CoreCompileInputs.cache
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\obj\Debug\net7.0\refint\ALP II - Atividade n. 03.dll
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.genruntimeconfig.cache
+C:\Users\vinni\OneDrive\Área de Trabalho\ADS - IFRO\2º Período\Algoritmo e Lógica de Programação 2\ALP II - Atividade n. 03\obj\Debug\net7.0\ref\ALP II - Atividade n. 03.dll
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.exe
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.deps.json
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.runtimeconfig.json
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfoInputs.cache
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfo.cs
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.csproj.CoreCompileInputs.cache
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\refint\ALP II - Atividade n. 03.dll
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.genruntimeconfig.cache
+C:\Users\bigbang\Dropbox\PC\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ref\ALP II - Atividade n. 03.dll
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.exe
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.deps.json
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.runtimeconfig.json
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.csproj.AssemblyReference.cache
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfoInputs.cache
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfo.cs
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.csproj.CoreCompileInputs.cache
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\refint\ALP II - Atividade n. 03.dll
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.genruntimeconfig.cache
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ref\ALP II - Atividade n. 03.dll
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.exe
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.deps.json
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.runtimeconfig.json
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.csproj.AssemblyReference.cache
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfoInputs.cache
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfo.cs
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.csproj.CoreCompileInputs.cache
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\refint\ALP II - Atividade n. 03.dll
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.genruntimeconfig.cache
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 03\ALP II - Atividade n. 03\obj\Debug\net7.0\ref\ALP II - Atividade n. 03.dll
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.exe
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.deps.json
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.runtimeconfig.json
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.csproj.AssemblyReference.cache
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfoInputs.cache
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfo.cs
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.csproj.CoreCompileInputs.cache
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\obj\Debug\net7.0\refint\ALP II - Atividade n. 03.dll
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.genruntimeconfig.cache
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 03\obj\Debug\net7.0\ref\ALP II - Atividade n. 03.dll
+E:\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.exe
+E:\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.deps.json
+E:\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.runtimeconfig.json
+E:\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.dll
+E:\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.pdb
+E:\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfoInputs.cache
+E:\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfo.cs
+E:\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.csproj.CoreCompileInputs.cache
+E:\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.dll
+E:\ALP II - Atividade n. 03\obj\Debug\net7.0\refint\ALP II - Atividade n. 03.dll
+E:\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.pdb
+E:\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.genruntimeconfig.cache
+E:\ALP II - Atividade n. 03\obj\Debug\net7.0\ref\ALP II - Atividade n. 03.dll
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.exe
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.deps.json
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.runtimeconfig.json
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\bin\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\refint\ALP II - Atividade n. 03.dll
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ALP II - Atividade n. 03.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ALP II - Atividade n. 03\obj\Debug\net7.0\ref\ALP II - Atividade n. 03.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\bin\Debug\net7.0\ALP II - Atividade n. 03.exe
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\bin\Debug\net7.0\ALP II - Atividade n. 03.deps.json
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\bin\Debug\net7.0\ALP II - Atividade n. 03.runtimeconfig.json
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\bin\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\bin\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\refint\ALP II - Atividade n. 03.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 05 Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ref\ALP II - Atividade n. 03.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\bin\Debug\net7.0\ALP II - Atividade n. 03.exe
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\bin\Debug\net7.0\ALP II - Atividade n. 03.deps.json
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\bin\Debug\net7.0\ALP II - Atividade n. 03.runtimeconfig.json
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\bin\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\bin\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\refint\ALP II - Atividade n. 03.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.pdb
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ALP II - Atividade n. 03.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 07. Atividade da aula do dia 18-09-2023\obj\Debug\net7.0\ref\ALP II - Atividade n. 03.dll

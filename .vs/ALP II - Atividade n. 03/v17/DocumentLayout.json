@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\ADS - IFRO\\2\u00BA Per\u00EDodo\\1 - Algoritmo e L\u00F3gica de Programa\u00E7\u00E3o II\\ALP II - 07. Atividade da aula do dia 18-09-2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF8F4E5-D10D-44B2-BBF5-6CA4D11A303D}|ALP II - Atividade n. 03.csproj|c:\\users\\usuario\\desktop\\ads - ifro\\2\u00BA per\u00EDodo\\1 - algoritmo e l\u00F3gica de programa\u00E7\u00E3o ii\\alp ii - 07. atividade da aula do dia 18-09-2023\\atividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF8F4E5-D10D-44B2-BBF5-6CA4D11A303D}|ALP II - Atividade n. 03.csproj|solutionrelative:atividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Atividade.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ADS - IFRO\\2\u00BA Per\u00EDodo\\1 - Algoritmo e L\u00F3gica de Programa\u00E7\u00E3o II\\ALP II - 07. Atividade da aula do dia 18-09-2023\\Atividade.cs",
+              "RelativeDocumentMoniker": "Atividade.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ADS - IFRO\\2\u00BA Per\u00EDodo\\1 - Algoritmo e L\u00F3gica de Programa\u00E7\u00E3o II\\ALP II - 07. Atividade da aula do dia 18-09-2023\\Atividade.cs",
+              "RelativeToolTip": "Atividade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:19:41.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
